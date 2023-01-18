@@ -10,5 +10,5 @@ I have worked here as Web Development Intern
 
 ******************************************
 
-WEBSITE LINK : https://kalpanashah.in/[url]
+WEBSITE LINK : https://kalpanashah.in/
 
