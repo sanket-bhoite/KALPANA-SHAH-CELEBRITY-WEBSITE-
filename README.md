@@ -1,8 +1,8 @@
 # KALPANA SHAH (CELEBRITY WEBSITE)
 Developed a website for Klipart Kreations pvt. ltd. 
 I have worked here as Web Development Intern
-#Certificate
-![Screenshot (465)](https://github.com/sanket-bhoite/KALPANA-SHAH-CELEBRITY-WEBSITE-/assets/84386140/66068f2a-5a5a-41b7-a33a-9c225ee77c0c)
+# Certificate
+![Screenshot (467)](https://github.com/sanket-bhoite/KALPANA-SHAH-CELEBRITY-WEBSITE-/assets/84386140/ae34fca9-6660-4e5a-925f-08002dc1db54)
 
 ******************************************
 
