@@ -2,8 +2,7 @@
 Developed a website for Klipart Kreations pvt. ltd. 
 I have worked here as Web Development Intern
 # Certificate
-![Screenshot (467)](https://github.com/sanket-bhoite/KALPANA-SHAH-CELEBRITY-WEBSITE-/assets/84386140/ae34fca9-6660-4e5a-925f-08002dc1db54)
-
+![Screenshot (469)](https://github.com/sanket-bhoite/KALPANA-SHAH-CELEBRITY-WEBSITE-/assets/84386140/da91cceb-0fa4-4e33-90dc-f57d6b7f8c7a)
 ******************************************
 
 - Developed website using HTML, CSS, Bootstrap JavaScript, PHP and Firebase database.
